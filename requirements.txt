@@ -1,4 +1,4 @@
 ﻿asyncio==3.4.3
 pyserial==3.5
 pyserial-asyncio==0.6
-dearpygui==2.0.0
+dearpygui==2.1.1
